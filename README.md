@@ -1,5 +1,6 @@
 # GENAI_Security_2024
 - [LLM4Decompile: Decompiling Binary Code with Large Language Models](https://arxiv.org/abs/2403.05286)
+- [LLM-Based Misconfiguration Detection for AWS Serverless Computing](https://arxiv.org/abs/2411.00642)
 # LLM Security
 - [Emoji Attack: A Method for Misleading Judge LLMs in Safety Risk Detection|2411.01077](https://arxiv.org/abs/2411.01077)
   - 越獄攻擊(Jailbreaking attacks)展示如何利用惡意提示誘騙大型語言模式 (LLM) 產生有害輸出。
