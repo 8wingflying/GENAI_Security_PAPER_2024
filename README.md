@@ -22,5 +22,8 @@
   - 我們的程式碼可在https://github.com/zhipeng-wei/EmojiAttack取得。 
 # LLM
 - [LLaMA: Open and Efficient Foundation Language Models | 2302.13971](https://arxiv.org/pdf/2302.13971)
+
+# LLM Application
+- [OpenCoder: The Open Cookbook for Top-Tier Code Large Language Models](https://arxiv.org/abs/2411.04905)
 # Small Language Model
 - [A Comprehensive Survey of Small Language Models in the Era of Large Language Models: Techniques, Enhancements, Applications, Collaboration with LLMs, and Trustworthiness |2411.03350](https://arxiv.org/abs/2411.03350)
