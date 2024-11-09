@@ -28,6 +28,7 @@
 - [LLaMA: Open and Efficient Foundation Language Models | 2302.13971](https://arxiv.org/pdf/2302.13971)
 # RAG
 - [RuleRAG: Rule-guided retrieval-augmented generation with language models for question answering|2410.22353](https://arxiv.org/abs/2410.22353)
+- [AutoRAG: Automated Framework for optimization of Retrieval Augmented Generation Pipeline|2410.20878](https://arxiv.org/abs/2410.20878)
 # LLM Application
 - [OpenCoder: The Open Cookbook for Top-Tier Code Large Language Models](https://arxiv.org/abs/2411.04905)
 - [Code Llama: Open Foundation Models for Code]()
