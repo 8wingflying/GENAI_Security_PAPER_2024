@@ -26,5 +26,7 @@
 
 # LLM Application
 - [OpenCoder: The Open Cookbook for Top-Tier Code Large Language Models](https://arxiv.org/abs/2411.04905)
+- [Code Llama: Open Foundation Models for Code]()
+
 # Small Language Model
 - [A Comprehensive Survey of Small Language Models in the Era of Large Language Models: Techniques, Enhancements, Applications, Collaboration with LLMs, and Trustworthiness |2411.03350](https://arxiv.org/abs/2411.03350)
