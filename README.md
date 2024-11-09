@@ -4,6 +4,7 @@
 - [AttackQA: Development and Adoption of a Dataset for Assisting Cybersecurity Operations using Fine-tuned and Open-Source LLMs|2411.0107](https://arxiv.org/abs/2411.01073)
 # LLM Security
 - [Data Extraction Attacks in Retrieval-Augmented Generation via Backdoors|2411.01705](https://arxiv.org/abs/2411.01705)
+- [HijackRAG: Hijacking Attacks against Retrieval-Augmented Large Language Models|2410.22832](https://arxiv.org/abs/2410.22832)
 - [Emoji Attack: A Method for Misleading Judge LLMs in Safety Risk Detection|2411.01077](https://arxiv.org/abs/2411.01077)
   - 越獄攻擊(Jailbreaking attacks)展示如何利用惡意提示誘騙大型語言模式 (LLM) 產生有害輸出。
   - 為了防止這些攻擊，通常會聘請其他 LLMs作為judges來評估生成內容的危害性。
@@ -25,7 +26,8 @@
   - 我們的程式碼可在https://github.com/zhipeng-wei/EmojiAttack取得。 
 # LLM
 - [LLaMA: Open and Efficient Foundation Language Models | 2302.13971](https://arxiv.org/pdf/2302.13971)
-
+# RAG
+- [RuleRAG: Rule-guided retrieval-augmented generation with language models for question answering|2410.22353](https://arxiv.org/abs/2410.22353)
 # LLM Application
 - [OpenCoder: The Open Cookbook for Top-Tier Code Large Language Models](https://arxiv.org/abs/2411.04905)
 - [Code Llama: Open Foundation Models for Code]()
