@@ -2,9 +2,13 @@
 - [LLM4Decompile: Decompiling Binary Code with Large Language Models](https://arxiv.org/abs/2403.05286)
 - [LLM-Based Misconfiguration Detection for AWS Serverless Computing](https://arxiv.org/abs/2411.00642)
 - [AttackQA: Development and Adoption of a Dataset for Assisting Cybersecurity Operations using Fine-tuned and Open-Source LLMs|2411.0107](https://arxiv.org/abs/2411.01073)
+- [RAG4ITOps: A Supervised Fine-Tunable and Comprehensive RAG Framework for IT Operations and Maintenance|2410.15805](https://arxiv.org/abs/2410.15805)
+- ["Ghost of the past": identifying and resolving privacy leakage from LLM's memory through proactive user interaction](https://arxiv.org/abs/2410.14931)
 # LLM Security
 - [Data Extraction Attacks in Retrieval-Augmented Generation via Backdoors|2411.01705](https://arxiv.org/abs/2411.01705)
 - [HijackRAG: Hijacking Attacks against Retrieval-Augmented Large Language Models|2410.22832](https://arxiv.org/abs/2410.22832)
+- [Real-time Fake News from Adversarial Feedback](https://arxiv.org/abs/2410.14651)
+- [Backdoored Retrievers for Prompt Injection Attacks on Retrieval Augmented Generation of Large Language Models](https://arxiv.org/abs/2410.14479)
 - [Emoji Attack: A Method for Misleading Judge LLMs in Safety Risk Detection|2411.01077](https://arxiv.org/abs/2411.01077)
   - 越獄攻擊(Jailbreaking attacks)展示如何利用惡意提示誘騙大型語言模式 (LLM) 產生有害輸出。
   - 為了防止這些攻擊，通常會聘請其他 LLMs作為judges來評估生成內容的危害性。
@@ -26,12 +30,25 @@
   - 我們的程式碼可在https://github.com/zhipeng-wei/EmojiAttack取得。 
 # LLM
 - [LLaMA: Open and Efficient Foundation Language Models | 2302.13971](https://arxiv.org/pdf/2302.13971)
+- [Bielik 7B v0.1: A Polish Language Model -- Development, Insights, and Evaluation|2410.18565](https://arxiv.org/abs/2410.18565)
+
+# RAG_REVIEW
+- [A Comprehensive Survey of Retrieval-Augmented Generation (RAG): Evolution, Current Landscape and Future Directions](https://arxiv.org/abs/2410.12837)
+
 # RAG
 - [RuleRAG: Rule-guided retrieval-augmented generation with language models for question answering|2410.22353](https://arxiv.org/abs/2410.22353)
 - [AutoRAG: Automated Framework for optimization of Retrieval Augmented Generation Pipeline|2410.20878](https://arxiv.org/abs/2410.20878)
+- [Developing Retrieval Augmented Generation (RAG) based LLM Systems from PDFs: An Experience Report|2410.15944](https://arxiv.org/abs/2410.15944)
+# LLM_Technique
+- [A Comparative Study of PDF Parsing Tools Across Diverse Document Categories](https://arxiv.org/abs/2410.09871)
 # LLM Application
 - [OpenCoder: The Open Cookbook for Top-Tier Code Large Language Models](https://arxiv.org/abs/2411.04905)
 - [Code Llama: Open Foundation Models for Code]()
+- [Exploring Demonstration Retrievers in RAG for Coding Tasks: Yeas and Nays!](https://arxiv.org/abs/2410.09662)
+- [Using GPT Models for Qualitative and Quantitative News Analytics in the 2024 US Presidental Election Process|2410.15884](https://arxiv.org/abs/2410.15884)
+- [Leveraging Retrieval-Augmented Generation for Culturally Inclusive Hakka Chatbots: Design Insights and User Perceptions|2410.15572](https://arxiv.org/abs/2410.15572)
+- [Agents4PLC: Automating Closed-loop PLC Code Generation and Verification in Industrial Control Systems using LLM-based Agents](https://arxiv.org/abs/2410.14209)
+- [Checker Bug Detection and Repair in Deep Learning Libraries](https://arxiv.org/abs/2410.06440)
 
 # Small Language Model
 - [A Comprehensive Survey of Small Language Models in the Era of Large Language Models: Techniques, Enhancements, Applications, Collaboration with LLMs, and Trustworthiness |2411.03350](https://arxiv.org/abs/2411.03350)
