@@ -10,6 +10,9 @@
 - [Real-time Fake News from Adversarial Feedback](https://arxiv.org/abs/2410.14651)
 - [Backdoored Retrievers for Prompt Injection Attacks on Retrieval Augmented Generation of Large Language Models](https://arxiv.org/abs/2410.14479)
 - [Emoji Attack: A Method for Misleading Judge LLMs in Safety Risk Detection|2411.01077](https://arxiv.org/abs/2411.01077)
+
+<details>
+
   - 越獄攻擊(Jailbreaking attacks)展示如何利用惡意提示誘騙大型語言模式 (LLM) 產生有害輸出。
   - 為了防止這些攻擊，通常會聘請其他 LLMs作為judges來評估生成內容的危害性。
   - 然而，依賴 LLMs作為評判可能會為檢測過程帶來偏差，進而損害評估的有效性。
@@ -28,6 +31,10 @@
   - 而 ShieldLM 的檢測則高達 75%。
   - 這些結果凸顯了需要更強大的法官法學碩士來解決這個漏洞。
   - 我們的程式碼可在https://github.com/zhipeng-wei/EmojiAttack取得。 
+
+</details>
+
+
 # LLM 大型語言模型
 - [66個大型語言模型LLM經典論文(2023)](https://tomohiroliu22.medium.com/66%E5%80%8B%E5%A4%A7%E5%9E%8B%E8%AA%9E%E8%A8%80%E6%A8%A1%E5%9E%8Bllm%E7%B6%93%E5%85%B8%E8%AB%96%E6%96%87-0fcdab74e822)
 - [LLaMA: Open and Efficient Foundation Language Models | 2302.13971](https://arxiv.org/pdf/2302.13971)
