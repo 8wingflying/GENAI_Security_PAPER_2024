@@ -38,6 +38,10 @@
 # LLM 大型語言模型
 - [66個大型語言模型LLM經典論文(2023)](https://tomohiroliu22.medium.com/66%E5%80%8B%E5%A4%A7%E5%9E%8B%E8%AA%9E%E8%A8%80%E6%A8%A1%E5%9E%8Bllm%E7%B6%93%E5%85%B8%E8%AB%96%E6%96%87-0fcdab74e822)
 - [LLaMA: Open and Efficient Foundation Language Models | 2302.13971](https://arxiv.org/pdf/2302.13971)
+# 台灣語言模型
+# 中國大陸語言模型
+# 世界各國語言模型
+- [OpenThaiGPT 1.5: A Thai-Centric Open Source Large Language Model]()
 - [Bielik 7B v0.1: A Polish Language Model -- Development, Insights, and Evaluation|2410.18565](https://arxiv.org/abs/2410.18565)
 
 # RAG_REVIEW
